@@ -14,16 +14,20 @@ body {
 }
 
 a {
-  color: #fff;
+  color: rgb(153, 226, 248);
   text-decoration: none;
+  text-shadow:  2px 5px 25px #70d8f1;
 }
 
 a:hover {
-  color: #16D9E3;
+  color: #77eb67;
+  text-shadow:  2px 5px 25px #4bda08;
 }
 
 .start {
   font-size: 1.5rem;
+  display: block;
+  colo
 }
 
 h1 {
@@ -121,4 +125,12 @@ h1 {
 
 .circle:hover{
   transition-duration: 0;
+}
+.start{
+  font-size: 35px;
+}
+
+.start:hover{
+  font-size: 39px;
+  transition: 1s all;
 }
