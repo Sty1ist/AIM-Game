@@ -118,8 +118,8 @@ h1 {
   justify-content: center;
   align-items: center;
   position: relative;
-  width: 500px;
-  height: 500px;
+  width: 650px;
+  height: 600px;
   background: linear-gradient(118.38deg, #29323C -4.6%, #485563 200.44%);
   box-shadow: -8px -8px 20px #2A333D, 10px 7px 20px #475462;
   border-radius: 30px;
@@ -157,4 +157,8 @@ h1 {
   font-size: 90px;
   text-shadow: 8px 13px 15px #191c1a;
   line-height: 1;
+}
+
+.screen3{
+  background:url(img/last.jpg) center/cover;
 }
