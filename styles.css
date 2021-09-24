@@ -48,8 +48,10 @@ h1 {
 }
 
 .screen h3{
-  color:pink;
-  font-size: 30px;
+    color: rgb(215, 245, 229);
+    font-size: 70px;
+    text-shadow: 2px 5px 25px #78d8b3;
+    line-height: 1;
 }
 
 .screen h1{
