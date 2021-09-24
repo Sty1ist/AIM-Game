@@ -42,6 +42,18 @@ h1 {
   background: linear-gradient(90deg, #29323C 0%, #485563 100%);
 }
 
+.screen h3{
+  color:pink;
+  font-size: 30px;
+}
+
+.screen h1{
+  color:rgb(215, 245, 229);
+  font-size: 50px;
+  text-shadow:  2px 5px 25px #78d8b3;
+  line-height: 1;
+}
+
 .screen.up {
   margin-top: -100vh;
 }
@@ -61,7 +73,8 @@ h1 {
 .time-btn {
   background-color: transparent;
   border: 2px solid #C0C0C0;
-  color: #fff;
+  border-radius:25px;
+  color: rgb(200, 185, 159);
   cursor: pointer;
   font-family: inherit;
   padding: .5rem 1rem;
@@ -69,8 +82,13 @@ h1 {
 }
 
 .time-btn:hover {
-  border: 2px solid #16D9E3;
-  color: #16D9E3;
+  border: 2px solid #580202;
+  color: #14e76c;
+  text-shadow: 7px 7px 25px #1ad409;
+  border:none;
+  
+
+
 }
 
 .hide {
