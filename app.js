@@ -89,7 +89,7 @@ function createRandomCircle() {
 
 function setColor(element) {
     const color = getRandomColor()
-    element.style.background = color
+    element.style.background = "green"
     //hover
 }
 
