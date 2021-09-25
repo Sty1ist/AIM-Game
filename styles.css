@@ -97,11 +97,25 @@ h1 {
 
 .time-btn:hover {
   color:white;
-  background:rgb(74, 129, 74);
+  background:rgb(169, 185, 100);
+  text-shadow: 7px 7px 25px #75ac11;
+  box-shadow:7px 7px 25px #063855;
+  border:none;
+}
+
+.time-btn2:hover{
+  color:white;
+  background:rgb(71, 116, 71);
   text-shadow: 7px 7px 25px #75ac11;
   box-shadow:7px 7px 25px #6d2403;
   border:none;
-  
+}
+
+.time-btn3:hover{
+  color:white;
+  background:rgb(221, 48, 18);
+  box-shadow:7px 7px 25px #055c22;
+  border:none;
 }
 .time-btn:active{
   color:red;
